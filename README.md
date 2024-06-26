@@ -1,5 +1,7 @@
 # Path Planning and obstacle avoidance algorithm
 
+  ![](https://github.com/malakalimah/Autonomous-Drone/blob/main/pathplan%20(1).GIF)
+
 Since we are talking about autonomous drones, then we have to consider
 the main part of its autonomous behavior which is path planning.
 
@@ -758,6 +760,8 @@ other objects might be over-scaled. That is why the local path plan system is
 as important as a global path plan.
 
 ## Way Points Extraction
+
+
 
 After applying the longest path algorithm Figure 66 Longest Path, we
 will have an array of waypoints that connect the start to the end.
