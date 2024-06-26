@@ -1,4 +1,4 @@
-# Path Planning and obstacle avoidance algorithm
+# Longest Path and obstacle avoidance algorithm
 
   ![](https://github.com/malakalimah/Autonomous-Drone/blob/main/pathplan%20(1).GIF)
 
