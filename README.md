@@ -862,3 +862,10 @@ To
 > geometric properties using the Shapely module, and then query the polygons
 > that are *x* length units far away from these points, if found we will
 > Drop them from our random samples, with a much more optimized time.
+
+
+#Navigate through files
+1) "event_driven_3aza.ipynb" carries the event-driven code to run on the Uda Drone simulator
+2) "azasplan.py" carries the parent class that the drone object will inherit its properties from to run on the simulator.
+3) "test.ipynb" tests all the functions covered in this README.md file.
+4) "Configure space wiz google maps.ipynb" shows how to create your own map, by defining obstacles with Google map API elevation.  PLEASE NOTE NOT TO EXCEED THE FREE TRIAL AS GOOGLE WILL CHARGE YOU FOR USING THIS FEATURE.
