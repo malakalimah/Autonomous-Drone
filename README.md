@@ -27,7 +27,7 @@ Figure 1 Path planning cycle
 ##  Localization
 
 > Localization is mainly about knowing the location of your system in
-> the world, or the space that it is in.\[41\]
+> the world, or the space that it is in.
 >
 > In our application since the drone will travel relatively in global
 > spaces or frames as well as in local ones, like traveling from
