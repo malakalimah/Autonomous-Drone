@@ -761,7 +761,7 @@ as important as a global path plan.
 
 ## Way Points Extraction
 
-
+![](https://github.com/malakalimah/Autonomous-Drone/blob/main/tri2.GIF)
 
 After applying the longest path algorithm Figure 66 Longest Path, we
 will have an array of waypoints that connect the start to the end.
