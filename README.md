@@ -72,7 +72,6 @@ Figure 1 Path planning cycle
 > results. <u>In addition, this point is to be considered in our future
 > work.</u>
 
-### module that can define location for outdoor tasks, just as Neo-8m, so for GNSS module
 
 #### How does GPS work
 
